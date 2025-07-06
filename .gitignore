@@ -42,7 +42,7 @@ github_issues.duckdb
 github_issues.duckdb.wal
 *.duckdb.wal
 logs/
-# visualizations/
+visualizations/
 # *.png
 *.jpg
 *.jpeg
