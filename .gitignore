@@ -38,6 +38,7 @@ htmlcov/
 
 # Project-specific
 config.yaml
+github_issues.duckdb
 github_issues.duckdb.wal
 *.duckdb.wal
 logs/
