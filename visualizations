@@ -1,0 +1,20 @@
+<script>start("/Users/Elvira/Desktop/projects/nagomi-assignment/visualizations/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("event_types_analysis___apache.png","event_types_analysis___apache.png",0,345424,"337 kB",1751843269,"7/7/25, 2:07:49 AM");</script>
+<script>addRow("event_types_analysis___dagster_io.png","event_types_analysis___dagster_io.png",0,713224,"697 kB",1751843279,"7/7/25, 2:07:59 AM");</script>
+<script>addRow("event_types_analysis___pola_rs.png","event_types_analysis___pola_rs.png",0,489899,"478 kB",1751843293,"7/7/25, 2:08:13 AM");</script>
+<script>addRow("issue_state_distribution___apache.png","issue_state_distribution___apache.png",0,125186,"122 kB",1751843264,"7/7/25, 2:07:44 AM");</script>
+<script>addRow("issue_state_distribution___dagster_io.png","issue_state_distribution___dagster_io.png",0,124144,"121 kB",1751843271,"7/7/25, 2:07:51 AM");</script>
+<script>addRow("issue_state_distribution___pola_rs.png","issue_state_distribution___pola_rs.png",0,121558,"119 kB",1751843283,"7/7/25, 2:08:03 AM");</script>
+<script>addRow("issues_over_time___apache.png","issues_over_time___apache.png",0,478319,"467 kB",1751843265,"7/7/25, 2:07:45 AM");</script>
+<script>addRow("issues_over_time___dagster_io.png","issues_over_time___dagster_io.png",0,558057,"545 kB",1751843274,"7/7/25, 2:07:54 AM");</script>
+<script>addRow("issues_over_time___pola_rs.png","issues_over_time___pola_rs.png",0,549725,"537 kB",1751843287,"7/7/25, 2:08:07 AM");</script>
+<script>addRow("repository_breakdown___apache.png","repository_breakdown___apache.png",0,613916,"600 kB",1751843270,"7/7/25, 2:07:50 AM");</script>
+<script>addRow("repository_breakdown___dagster_io.png","repository_breakdown___dagster_io.png",0,923166,"902 kB",1751843282,"7/7/25, 2:08:02 AM");</script>
+<script>addRow("repository_breakdown___pola_rs.png","repository_breakdown___pola_rs.png",0,255686,"250 kB",1751843296,"7/7/25, 2:08:16 AM");</script>
+<script>addRow("resolution_time_analysis___apache.png","resolution_time_analysis___apache.png",0,199533,"195 kB",1751843266,"7/7/25, 2:07:46 AM");</script>
+<script>addRow("resolution_time_analysis___dagster_io.png","resolution_time_analysis___dagster_io.png",0,196934,"192 kB",1751843275,"7/7/25, 2:07:55 AM");</script>
+<script>addRow("resolution_time_analysis___pola_rs.png","resolution_time_analysis___pola_rs.png",0,231597,"226 kB",1751843289,"7/7/25, 2:08:09 AM");</script>
+<script>addRow("top_contributors___apache.png","top_contributors___apache.png",0,263445,"257 kB",1751843267,"7/7/25, 2:07:47 AM");</script>
+<script>addRow("top_contributors___dagster_io.png","top_contributors___dagster_io.png",0,338305,"330 kB",1751843277,"7/7/25, 2:07:57 AM");</script>
+<script>addRow("top_contributors___pola_rs.png","top_contributors___pola_rs.png",0,322548,"315 kB",1751843291,"7/7/25, 2:08:11 AM");</script>
