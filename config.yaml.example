@@ -1,0 +1,13 @@
+# config.yaml
+
+# Your GitHub personal access token (with repo & org read scopes)
+github_token: your_github_token_here
+
+# The GitHub organization to fetch issues from
+org_name: your-org-name
+
+# API pagination size (max 100)
+per_page: 100
+
+# Log level: debug or info
+log_level: info 
