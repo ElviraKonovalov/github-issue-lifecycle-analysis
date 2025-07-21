@@ -277,7 +277,7 @@ python src/visualize_data.py
 
 ### Data Collection Scope
 
-For this home assignment, the tool demonstrates the ability to collect and store all required GitHub issue metadata including:
+The tool demonstrates the ability to collect and store all required GitHub issue metadata including:
 
 - Core issue data (creation, updates, state changes)
 - Timeline events (labels, assignments, comments)
